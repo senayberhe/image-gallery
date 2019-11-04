@@ -1,3 +1,3 @@
 # image-gallery
 
-![Repo List](screenshots/landing.png)
+![Repo List](landing.png)
